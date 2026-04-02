@@ -1,0 +1,28 @@
+Branş, ID, İsim, Takım, Dayanıklılık, Enerji, Özel Yetenek, Özellik1, Özellik2, Özellik3, Moral, Reyting
+
+Futbol, 1, Lionel Messi, Inter Miami, 85, 100, Legend, 90, 96, 92, 60, 99
+Futbol, 2, Cristiano Ronaldo, Al Nassr, 90, 100, Legend, 95, 88, 94, 60, 99
+Futbol, 3, Kylian Mbappe, Real Madrid, 92, 100, Finisher, 91, 80, 95, 60, 94
+Futbol, 4, Erling Haaland, Man City, 88, 100, Finisher, 93, 75, 98, 60, 93
+Futbol, 5, Kevin De Bruyne, Napoli, 82, 100, Captain, 87, 93, 80, 60, 91
+Futbol, 6, Luka Modric, Milan, 89, 100, Veteran, 88, 83, 82, 60, 89
+Futbol, 7, Arda Güler, Real Madrid, 75, 100, Clutch Player, 80, 89, 78, 60, 84
+Futbol, 8, Jude Bellingham, Real Madrid, 88, 100, Defender, 82, 78, 85, 60, 86
+
+Basketbol, 9, LeBron James, Lakers, 92, 100, Legend, 80, 95, 85, 60, 97
+Basketbol, 10, Stephen Curry, Warriors, 85, 100, Legend, 99, 88, 92, 60, 95
+Basketbol, 11, Kevin Durant, Rockets, 88, 100, Veteran, 90, 92, 90, 60, 93
+Basketbol, 12, Giannis Antetokounmpo, Bucks, 95, 100, Defender, 65, 96, 75, 60, 90
+Basketbol, 13, Luka Doncic, Mavericks, 86, 100, Clutch Player, 88, 90, 85, 60, 89
+Basketbol, 14, Nikola Jokic, Nuggets, 85, 100, Captain, 82, 95, 86, 60, 92
+Basketbol, 15, Shaquille O'Neal, Lakers, 93, 100, Legend, 15, 98, 47, 60, 94
+Basketbol, 16, Alperen Şengün, Rockets, 84, 100, Finisher, 70, 92, 80, 60, 87
+
+Voleybol, 17, Melissa Vargas, Fenerbahçe, 90, 100, Finisher, 95, 85, 98, 60, 96
+Voleybol, 18, Eda Erdem, Fenerbahçe, 88, 100, Legend, 85, 96, 90, 60, 92
+Voleybol, 19, Zehra Güneş, Vakıfbank, 85, 100, Defender, 80, 98, 88, 60, 90
+Voleybol, 20, Ebrar Karakurt, Lokomotiv, 89, 100, Clutch Player, 92, 82, 95, 60, 90
+Voleybol, 21, Tijana Boskovic, Eczacıbaşı, 88, 100, Legend, 90, 86, 97, 60, 93
+Voleybol, 22, Gabi Guimaraes, Vakıfbank, 92, 100, Captain, 85, 88, 94, 60, 92
+Voleybol, 23, Isabelle Haak, Conegliano, 87, 100, Finisher, 88, 85, 96, 60, 91
+Voleybol, 24, Hande Baladın, Eczacıbaşı, 86, 100, Defender, 82, 84, 88, 60, 85
